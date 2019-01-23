@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Signika');
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+
+
+.timer-contents {
+	font-family: 'Cinzel', serif;
+	color: black;
+}
+
+.start{
+	margin: 15px;
+
+}
+
+.pause{
+	margin: 15px;
+}
+
+.clear{
+	margin: 15px;
+}
+
+.hours{
+	margin: 15px;
+}
+
+.thirtyMin{
+	margin: 15px;
+}
+
+.fiveMin{
+	margin: 15px;
+}
+
+.timer-display{
+	font-size: 200px;
+}
